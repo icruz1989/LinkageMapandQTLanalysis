@@ -94,7 +94,7 @@ cat order1.evaluated.txt order2.evaluat3.evaluated.txt......>allchr.txt
 
 This script converts to phase genotypes. This measn that one allele comes from one parent and the other from the other parent. 1 2 are the alles. This files does not give you the number of the chromosome but this is very easy to set. 
 
-awk -vfullData=1 -f map2genotypes.awk All.Chr.Concatenated.Covid9.txt >genotypes.txt
+	awk -vfullData=1 -f map2genotypes.awk All.Chr.Concatenated.Covid9.txt >genotypes.txt
 
 To put the number of the chromosome you can do this manually in excel using the concatenated and the order files. Then you can see the name of the markers, where markers starts and ends. Then just assing the number of LG
 
