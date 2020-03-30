@@ -99,4 +99,4 @@ This script converts to phase genotypes. This measn that one allele comes from o
 To put the number of the chromosome you can do this manually in excel using the concatenated and the order files. Then you can see the name of the markers, where markers starts and ends. Then just assing the number of LG
 
 	THIS GENOTYPES ARE NOW ALMOST READY TO USE FOR QTL ANALYS 
-
+NOTE: TAKE A LOOK IN THE R SCRIPT PROVIDED IN THIS REPOSITORY TO SEE HOW TO CONDUCT A QTL ANALYSIS USING RQTL2 PACKAGE 
