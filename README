@@ -1,2 +1,2 @@
-This repository contains basic steps to construct a linkage maps and carry out basic QTL analysis
+This repository contains basic steps to construct a linkage map and carry out basic QTL analysis
 This pipeline was done using ddRadseq data and having a Reference Genome but should works for other kind of Radseq data
